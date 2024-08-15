@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "semp"
+version = "0.1.0"
+description = "testing semantic poetry"
+authors = ["Lawon Lewis <lawson@kurrawong.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
