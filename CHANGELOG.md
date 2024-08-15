@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.0 (2024-08-15)
+
+### Breaking
+
+* fix: add ending statement
+
+BREAKING CHANGE: incompatible statements ([`16922c0`](https://github.com/lalewis1/semp/commit/16922c0848de1d57a047491f74f6b46f6fa7c6f5))
+
 ## v0.1.0 (2024-08-15)
 
 ### Chore
