@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v1.0.1 (2024-08-16)
+
+### Chore
+
+* chore: remove version from init ([`9657e61`](https://github.com/lalewis1/semp/commit/9657e61083d2a2fe1cf67a763e2c8ed93ab67cb2))
+
+### Performance
+
+* perf: faster readme ([`61cb734`](https://github.com/lalewis1/semp/commit/61cb73466be1a4379abccb35ac2cb6da98fcff80))
+
 ## v1.0.0 (2024-08-15)
 
 ### Breaking
