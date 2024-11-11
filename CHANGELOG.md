@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v1.1.1 (2024-11-11)
+
+### Bug Fixes
+
+- Evil laughter
+  ([`ae9d780`](https://github.com/lalewis1/semp/commit/ae9d7803b126d9ae27a6d3c8639ffc53f1866881))
+
+
 ## v1.1.0 (2024-11-11)
 
 ### Bug Fixes
